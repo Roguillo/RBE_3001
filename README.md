@@ -9,3 +9,5 @@ Final code for 4-DOF Ball-Sorting Robotic Arm for Unified Robotics III: Manipula
    - Symbolic math Toolbox
    - MATLAB Support Package for USB Webcam
 - Combining kinematics for motion of the arm, determinants of Jacobian matrices for singularity avoidance, a computer vision algorithm for ball localization, and endeffector orientation control via kinematic decoupling, the fully automated system correctly identifies any practical amount of colored balls on the chessboard and sorts them into their corresponding boxes placed adjacent to the chessboard
+
+Video: [General overview](https://youtu.be/4wtvsY7mxtw?si=9fpaC8NpLDnFX1OM)
